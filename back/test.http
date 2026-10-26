@@ -1,0 +1,12 @@
+POST http://localhost:8080/api/products
+Content-Type: application/json
+
+{
+  "name": "MacBook Pro M4",
+  "description": "Apple MacBook Pro با چیپ M4",
+  "price": 120000000,
+  "image": "https://example.com/macbook.jpg",
+  "category": "لپ تاپ",
+  "stock": 10,
+  "discount": 5
+}

@@ -1,0 +1,28 @@
+# Dependencies
+front/node_modules/
+
+# Build output
+front/dist/
+back/target/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+**/application-local.properties
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Local database dumps and backups
+database.sql
+*.sql
+files/
+
+# Local secrets
+.env
+.env.*
+!.env.example
