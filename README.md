@@ -102,3 +102,26 @@ Set it to the address where the backend is accessible. Use `http://localhost:808
 ## License
 
 No license has been specified yet.
+
+## Screenshots
+
+### Homepage
+![Techno-Shop Homepage](about/techno-landing.png)
+
+### About
+![About](about/about.png)
+
+### Shopping Cart
+![Shopping Cart](about/curt.png)
+
+### Payment
+![Payment](about/payment.png)
+
+### Order Completion
+![Order Completion](about/complete.png)
+
+### Orders
+![Orders](about/orders.png)
+
+### 3D Experience
+![3D Experience](about/3d.png)
